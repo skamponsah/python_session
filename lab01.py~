@@ -82,7 +82,6 @@ main_catalog = {
 }
 print main_catalog
 
-#4
 def binary_insert():
 	pass
 
